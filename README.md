@@ -1,4 +1,4 @@
-This is Generative AI made using deepseek r1 8b model
+This is Generative AI made using deepseek r1 8b  which is implemented here
 
 Make sure to download ollama first from 
 https://ollama.com/download
